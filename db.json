@@ -1,4 +1,5 @@
-[
+{
+"activities":[
   {
     "type":"LIKE",
     "username":"aditya.giradkar",
@@ -42,3 +43,4 @@
     "blogId":"blogid-1"
   }
 ]
+}
